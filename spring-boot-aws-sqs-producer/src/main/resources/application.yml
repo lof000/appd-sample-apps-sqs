@@ -1,0 +1,15 @@
+server:
+   port: 9091
+   
+cloud:
+   aws:
+      region:
+         static: us-east-1
+         auto: false
+      credentials:
+         access-key: xxx
+         secret-key: xxx
+      end-point:
+         uri: https://sqs.us-east-1.amazonaws.com/xxx/netsurfingzone-first-sqs
+
+

@@ -22,10 +22,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .DS_Store
-spring-boot-aws-sqs-consumer/.classpath
-spring-boot-aws-sqs-consumer/.project
-*.prefs
-spring-boot-aws-sqs-consumer/.vscode/settings.json
-spring-boot-aws-sqs-producer/.classpath
-spring-boot-aws-sqs-producer/.project
-spring-boot-aws-sqs-producer/.vscode/settings.json
+
+/target
